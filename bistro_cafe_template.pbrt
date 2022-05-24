@@ -15,7 +15,7 @@
 Film "gbuffer"
     "integer yresolution" [ 1080 ]
     "integer xresolution" [ 1920 ]
-    "string filename" [ "bistro_cafe.exr" ]
+    "string filename" [ [OUTFILE] ]
     "float iso" 110
     "float maxcomponentvalue" 20
 
